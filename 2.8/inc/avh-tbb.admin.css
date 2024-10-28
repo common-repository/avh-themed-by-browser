@@ -1,0 +1,40 @@
+.footer_avhtbb {
+	margin-top: 2em;
+	font-size: 0.8em;
+	text-align: center;
+}
+
+div.clearer {
+	clear: both;
+	line-height: 1px;
+	font-size: 1px;
+	height: 1px;
+}
+
+#avhtbb_correlation_list {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+	font-size: 80%;
+}
+#avhtbb_correlation_list li {
+	list-style-type: none;
+	float: left;
+	margin: 2px 2px 0 0;
+	text-align: left;
+	font-size: 10px;
+	padding: 4px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #f5f5f5;
+}
+
+#avhtbb_correlation_list input {
+	display: block;
+	float: left;
+	clear: left;
+	height: 12px;
+	padding: 0;
+	margin: 0;
+}
